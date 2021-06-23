@@ -9,3 +9,6 @@
 
 # Cart
 ![alt text](https://github.com/litfin88/e-commerce-website/blob/main/WebsiteImages/web3.png)
+
+# Product Details
+![alt text](https://github.com/litfin88/e-commerce-website/blob/main/WebsiteImages/web4.png)
